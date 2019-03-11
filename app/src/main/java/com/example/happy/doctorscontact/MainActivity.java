@@ -73,6 +73,7 @@ public class MainActivity extends AppCompatActivity {
         Intent intent = new Intent(this, MedicalDepartment.class);
         startActivity(intent);
 	// It will start MedicalDepartment Activity
+	// This click function direct at Medical Department page
     }
 
 }
