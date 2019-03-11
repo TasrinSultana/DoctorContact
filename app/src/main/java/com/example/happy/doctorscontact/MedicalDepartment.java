@@ -103,6 +103,7 @@ public class MedicalDepartment extends AppCompatActivity {
     public void openGynocologyDepartment(){
         Intent intent = new Intent(this, GynocologyDepartment.class);
         startActivity(intent);
+	//This will start GynocologyDepartment Actity
     }
 
 }
