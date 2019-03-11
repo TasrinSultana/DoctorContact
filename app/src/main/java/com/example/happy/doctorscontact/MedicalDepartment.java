@@ -97,6 +97,7 @@ public class MedicalDepartment extends AppCompatActivity {
     public void openBrainDepartment(){
         Intent intent = new Intent(this, BrainDepartment.class);
         startActivity(intent);
+	//This will start BrainDepartment Actity
     }
 
     public void openGynocologyDepartment(){
