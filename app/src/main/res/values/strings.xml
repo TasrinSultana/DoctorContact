@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Hello Doctor</string>
+    <string name="button_Rajshahi">রাজশাহী</string>
+    <string name="button_Dhaka">ঢাকা</string>
+    <string name="button_Rangpur">রংপুর</string>
+    <string name="button_Sylhet">সিলেট</string>
+    <string name="button_Chittagong">চট্টগ্রাম</string>
+    <string name="button_Barishal">বরিশাল</string>
+    <string name="button_selectDivision">আপনার বিভাগীয় শহর নির্বাচন করুন"</string>
+    <string name="button_EyeDp">চক্ষু বিভাগ</string>
+    <string name="button_EarDp">নাক,কান,গলা বিভাগ</string>
+    <string name="button_BrainDp">মস্তিষ্ক বিভাগ</string>
+    <string name="button_SkinDp">চর্মরোগ বিভাগ</string>
+    <string name="button_DentalDp">দন্ত বিভাগ</string>
+    <string name="button_FemaleDp">গাইনী বিভাগ</string>
+    <string name="button_SelectMedicalDp">আপনার প্রয়োজনীয় বিভাগ নির্বাচন করুন</string>
+    <string name="button_FemaleD1">ডাঃ আবেদা খাতুন</string>
+    <string name="button_FemaleD2">ডাঃ আঞ্জুমান আরা বেগম\n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_FemaleD3">ডাঃ ফাতেমা সিদ্দীকি \n এমবিবিএস, এফসিপিএস \n ঢাকা মেডিকেল কলেজ</string>
+    <string name="button_SelectDoctor">আপনার পছন্দ অনুযায়ী ডাক্তার নির্বাচন করুন</string>
+    <string name="button_BrainD1">ডাঃ মোঃ আহমেদ আলী \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_BrainD2">ডাঃ মোঃ পারভেজ আমিন \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_BrainD3">ডাঃ মুঞ্জুর এলাহি \n এমবিবিএস, এফসিপিএস \n ঢাকা মেডিকেল কলেজ</string>
+    <string name="button_DentalD1">সহকারী ডাঃ মোঃ ফয়সাল জামান \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_DentalD2">ডাঃ ফারহানা ইসলাম \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_DentalD3">ডাঃ মোঃ শহিদুল ইসলাম \n এমবিবিএস, এফসিপিএস \n ঢাকা মেডিকেল কলেজ</string>
+    <string name="button_SkinD1">সহকারী প্রফেসর ডাঃ বি. জামান \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_SkinD2">ডাঃ মোঃ মুস্তাফিজুর রহমান \n এমবিবিএস, এফসিপিএস \n রাজশাহী মেডিকেল কলেজ</string>
+    <string name="button_SkinD3">ডাঃ মঈনুদ্দীন আহমেদ \n এমবিবিএস, এফসিপিএস \n ঢাকা মেডিকেল কলেজ</string>
+    <string name="button_EarD1">ডাঃ মিলন কুমার চৌধুরী</string>
+    <string name="button_EarD2">ডাঃ আশিক ইকবাল </string>
+    <string name="button_EarD3">ডাঃ সুলতানা হক \n এমবিবিএস, এফসিপিএস \n ঢাকা মেডিকেল কলেজ</string>
+    <string name="button_EyeD1">ডাঃ এ এম ইউসুফ</string>
+    <string name="button_EyeD2">ডাঃ মোঃ আনুয়ারুল</string>
+    <string name="button_EyeD3">ডাঃ তানজিলা আলম</string>
+    <string name="Eye_Doctor5_Text">
+    A. দি প্যাথলজি, লক্ষীপুর, রাজশাহী ( ০৭২১-৭৭২১২৩)\n
+ সময়: রাত্রী ৭:০০ টা হইতে রাত্রী ৮:০০ টা \nএবং বিকাল ৩:৩০ টা হইতে বিকাল ৬:০০ টা \n\nবন্ধ : বৃহস্পতিবার ও শুক্রবার\n\n
+</string>
+
+    <string name="Eye_Doctor5_Degree">এফ.সি.পি.এস(মেডিসিন) এফ.এ.সি.পি, পি.এইচডি(ইউ.এস.এ)\n
+এসোসিয়েট প্রফেসর, মেডিসিন,
+রাজশাহী মেডিকেল কলেজ হাসপাতাল।\n</string>
+    <string name="title_activity_maps">Map</string>
+
+
+</resources>

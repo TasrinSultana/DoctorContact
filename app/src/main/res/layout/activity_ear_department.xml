@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EyeDepartment">
+
+    <Button
+        android:id="@+id/button_EyeD1"
+        android:layout_width="185dp"
+        android:layout_height="189dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor3"
+        android:text="@string/button_EyeD1"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+        />
+
+    <Button
+        android:id="@+id/button_EyeD2"
+        android:layout_width="167dp"
+        android:layout_height="187dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor2"
+        android:text="@string/button_EyeD2"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+        />
+
+    <Button
+        android:id="@+id/button_EyeD3"
+        android:layout_width="wrap_content"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor"
+        android:text="@string/button_EyeD3"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+        />
+
+
+    <Button
+        android:id="@+id/button_EyeD4"
+        android:layout_width="185dp"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor1"
+        android:text="@string/button_FemaleD1"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+        />
+
+    <Button
+        android:id="@+id/button_EyeD5"
+        android:layout_width="167dp"
+        android:layout_height="189dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor4"
+        android:text="@string/button_EarD2"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+
+        />
+
+    <Button
+        android:id="@+id/button_EyeD6"
+        android:layout_width="185dp"
+        android:layout_height="184dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/doctor5"
+        android:text="@string/button_EarD1"
+        android:textColor="@color/colorGreen"
+        android:background="@color/colorMistyrose"
+        />
+
+
+</RelativeLayout>
