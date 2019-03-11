@@ -71,6 +71,7 @@ public class EyeDepartment extends AppCompatActivity {
     public void openEyeDoctor1() {
         Intent intent = new Intent(this, EyeDoctor1.class);
         startActivity(intent);
+	// This will go at Doctor 1 page
 
     }
 
