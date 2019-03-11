@@ -72,6 +72,7 @@ public class MainActivity extends AppCompatActivity {
     public void openMedicalDepartment(){
         Intent intent = new Intent(this, MedicalDepartment.class);
         startActivity(intent);
+	// It will start MedicalDepartment Activity
     }
 
 }
