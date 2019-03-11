@@ -102,6 +102,7 @@ public class EyeDepartment extends AppCompatActivity {
     public void openEyeDoctor6() {
         Intent intent = new Intent(this, EyeDoctor6.class);
         startActivity(intent);
+	// this will call 6 no. doctor
 
     }
 }
