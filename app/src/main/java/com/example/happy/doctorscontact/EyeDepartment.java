@@ -68,6 +68,8 @@ public class EyeDepartment extends AppCompatActivity {
 
     }
 
+    // These are function for click and open new tab
+
     public void openEyeDoctor1() {
         Intent intent = new Intent(this, EyeDoctor1.class);
         startActivity(intent);
