@@ -79,6 +79,7 @@ public class MedicalDepartment extends AppCompatActivity {
     public void openEarDepartment(){
         Intent intent = new Intent(this, EarDepartment.class);
         startActivity(intent);
+	//This will start EyeDepartment Actity
     }
 
     public void openSkinDepartment(){
