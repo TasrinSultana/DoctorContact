@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MedicalDepartment">
+
+    <Button
+        android:id="@+id/buttonEye"
+        android:text="@string/button_EyeDp"
+        android:layout_width="167dp"
+        android:layout_height="189dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:drawableTop="@drawable/eye"
+        />
+
+
+    <Button
+        android:id="@+id/buttonFemale"
+        android:text="@string/button_FemaleDp"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:layout_width="167dp"
+        android:layout_height="187dp"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/female"
+        />
+
+    <Button
+        android:id="@+id/buttonBrain"
+        android:text="@string/button_BrainDp"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:layout_width="167dp"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/brain"
+        />
+
+    <Button
+        android:id="@+id/buttonDental"
+        android:text="@string/button_DentalDp"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:layout_width="185dp"
+        android:layout_height="189dp"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentTop="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/teeth"
+        />
+
+    <Button
+        android:id="@+id/buttonSkin"
+        android:text="@string/button_SkinDp"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:layout_width="185dp"
+        android:layout_height="184dp"
+        android:layout_alignParentEnd="true"
+        android:layout_centerVertical="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/skin"
+        />
+
+    <Button
+        android:id="@+id/buttonEar"
+        android:text="@string/button_EarDp"
+        android:textColor="@color/colorHoneydew"
+        android:background="@color/colordarkslategray"
+        android:layout_width="185dp"
+        android:layout_height="180dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:textSize="19dp"
+        android:textStyle="bold"
+        android:drawableTop="@drawable/ent"
+        />
+
+</RelativeLayout>
