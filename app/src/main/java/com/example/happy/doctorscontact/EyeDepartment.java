@@ -9,6 +9,7 @@ import android.widget.Button;
 public class EyeDepartment extends AppCompatActivity {
 
     private Button eyeDoctor1, eyeDoctor2, eyeDoctor3, eyeDoctor4,eyeDoctor5, eyeDoctor6;
+    // All eye doctor initialized
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
