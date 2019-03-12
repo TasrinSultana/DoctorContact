@@ -10,42 +10,44 @@
         android:id="@+id/button_EyeD1"
         android:layout_width="185dp"
         android:layout_height="189dp"
-        android:layout_alignParentEnd="true"
+        android:drawableTop="@drawable/doctor3"
         android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
         android:textSize="19dp"
         android:textStyle="bold"
-        android:drawableTop="@drawable/doctor3"
+
         android:text="@string/button_EyeD1"
-        android:textColor="@color/colorIndigo"
         android:background="@color/colorThistle"
+        android:textColor="@color/colorIndigo"
+
         />
 
     <Button
         android:id="@+id/button_EyeD2"
         android:layout_width="167dp"
-        android:layout_height="187dp"
         android:layout_alignParentStart="true"
         android:layout_centerVertical="true"
         android:textSize="19dp"
         android:textStyle="bold"
+        android:layout_height="187dp"
         android:drawableTop="@drawable/doctor2"
         android:text="@string/button_EyeD2"
-        android:textColor="@color/colorIndigo"
         android:background="@color/colorThistle"
+        android:textColor="@color/colorIndigo"
         />
 
     <Button
         android:id="@+id/button_EyeD3"
         android:layout_width="wrap_content"
         android:layout_height="180dp"
-        android:layout_alignParentBottom="true"
         android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
         android:textSize="19dp"
         android:textStyle="bold"
         android:drawableTop="@drawable/doctor"
         android:text="@string/button_EyeD3"
-        android:textColor="@color/colorIndigo"
         android:background="@color/colorThistle"
+        android:textColor="@color/colorIndigo"
         />
 
 
@@ -68,8 +70,8 @@
         android:layout_width="167dp"
         android:layout_height="189dp"
         android:layout_alignParentStart="true"
-        android:layout_alignParentTop="true"
         android:textSize="19dp"
+        android:layout_alignParentTop="true"
         android:textStyle="bold"
         android:drawableTop="@drawable/doctor4"
         android:text="@string/button_EarD2"

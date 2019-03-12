@@ -51,16 +51,17 @@
 
     <Button
         android:id="@+id/button_EyeD4"
-        android:layout_width="185dp"
         android:layout_height="180dp"
+        android:layout_width="185dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentEnd="true"
         android:textSize="19dp"
-        android:textStyle="bold"
+        android:background="@color/colorPlum"
         android:drawableTop="@drawable/doctor1"
+        android:textStyle="bold"
         android:text="@string/button_FemaleD1"
         android:textColor="@color/colorJive"
-        android:background="@color/colorPlum"
+
         />
 
     <Button
@@ -69,8 +70,8 @@
         android:layout_height="189dp"
         android:layout_alignParentStart="true"
         android:layout_alignParentTop="true"
-        android:textSize="19dp"
         android:textStyle="bold"
+        android:textSize="19dp"
         android:drawableTop="@drawable/doctor4"
         android:text="@string/button_EarD2"
         android:textColor="@color/colorJive"
